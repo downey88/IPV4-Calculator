@@ -1,0 +1,38 @@
+input
+{
+	text-align:center;
+	color:yellowgreen;
+}
+
+option
+{
+	color:yellowgreen;
+}
+
+span
+{
+	color:yellowgreen;
+}
+font
+{
+	color:red;
+}
+.bingkai
+{
+	border-style:ridge;
+	border-width:thick;
+}
+td.warna
+{
+	border-style:ridge;
+	border-top-width:medium;
+	background-color:yellowgreen;
+	border-color:white;
+}
+td
+{
+	border-style:ridge;
+	border-top-width:medium;
+	background-color:white;
+	border-color:white;
+}
